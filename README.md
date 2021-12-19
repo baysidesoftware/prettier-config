@@ -1,3 +1,0 @@
-# Prettier Config
-
-Prettier configuration.
